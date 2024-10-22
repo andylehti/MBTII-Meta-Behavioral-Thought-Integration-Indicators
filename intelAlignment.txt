@@ -1,0 +1,127 @@
+# Spatial Distribution of Core Alignment [TPF]
+
+Intelligence	1st	2nd	3rd	4th	5th	6th	7th	8th	9th	10th	11th	12th	13th	14th	15th	16th
+Verbal Intelligence	NF	SF	NF	SF	NF	SF	NT	NT	NF	ST	NT	SF	NT	ST	ST	ST
+Auditory Intelligence	SF	SF	NF	NF	NF	NF	ST	ST	NT	NT	NT	ST	SF	ST	SF	NT
+Linguistic Intelligence	NF	NF	NF	SF	NF	SF	NT	NT	NT	NT	SF	ST	ST	ST	SF	ST
+Analytical Intelligence	NT	NT	NT	NT	NF	ST	ST	ST	NF	NF	SF	SF	SF	SF	NF	ST
+Cognitive Intelligence	NT	NT	NT	NT	NF	NF	ST	ST	NF	SF	SF	SF	ST	SF	NF	ST
+Practical Intelligence	ST	ST	NT	NT	ST	ST	SF	SF	NT	NF	NT	SF	NF	NF	NF	SF
+Emotional Intelligence	NF	NF	NF	SF	SF	NF	SF	SF	NT	NT	NT	NT	ST	ST	ST	ST
+Intuitive Intelligence	NF	NT	NF	NF	NF	NT	NT	NT	SF	SF	SF	SF	ST	ST	ST	ST
+Existential Intelligence	NF	NT	NF	NF	NT	NT	NF	NT	SF	SF	SF	SF	ST	ST	ST	ST
+Holistic Intelligence	NF	NT	NT	NT	NT	NF	ST	ST	ST	SF	SF	SF	NF	NF	SF	ST
+Memory Intelligence	ST	SF	ST	NF	NT	NT	NT	NT	SF	NF	SF	SF	NF	NF	ST	ST
+Physical Intelligence	ST	ST	SF	SF	ST	ST	SF	SF	NT	NF	NT	NT	NF	NF	NF	NT
+Spatial Intelligence	NT	NT	ST	ST	NT	NT	NF	NF	SF	SF	SF	SF	ST	ST	NF	NF
+Mathematical Intelligence	NT	NT	NT	NT	NF	ST	ST	ST	SF	SF	SF	NF	NF	NF	SF	ST
+Creative Intelligence	NF	NF	NT	NT	NF	NT	NF	SF	SF	SF	SF	ST	ST	ST	ST	NT
+Social Intelligence	NF	SF	NF	NF	SF	SF	SF	NF	NT	NT	ST	ST	NT	NT	ST	ST
+Technological Intelligence	NT	NT	NT	NT	ST	ST	ST	ST	NF	NF	NF	NF	SF	SF	SF	SF
+Naturalistic Intelligence	SF	SF	NF	NF	NF	NF	SF	SF	NT	NT	NT	NT	ST	ST	ST	ST
+Reflexive Intelligence	ST	ST	SF	SF	ST	ST	NT	NT	NT	NF	NF	NF	NT	NF	SF	SF
+																
+Intelligence	1st	2nd	3rd	4th	5th	6th	7th	8th	9th	10th	11th	12th	13th	14th	15th	16th
+Verbal Intelligence	EJ	EJ	IJ	IJ	EP	EP	EP	EJ	IP	IJ	IJ	IP	IP	EJ	IP	EP
+Auditory Intelligence	IP	EP	IP	EP	IJ	EJ	IP	EP	IJ	EJ	IP	EJ	EJ	IJ	IJ	EP
+Linguistic Intelligence	IP	IJ	EJ	IJ	EP	IP	IP	IJ	EP	EJ	EJ	EJ	IJ	EP	EP	IP
+Analytical Intelligence	IP	IJ	EP	EJ	IJ	IP	EJ	IJ	IP	EP	IJ	EJ	IP	EP	EJ	EP
+Cognitive Intelligence	IJ	IP	EP	EJ	IJ	EP	EJ	IJ	IP	EJ	IJ	IP	IP	EP	EJ	EP
+Practical Intelligence	IJ	EJ	EJ	IJ	IP	EP	IJ	EJ	EP	EP	IP	IP	IJ	EJ	IP	EP
+Emotional Intelligence	IJ	IP	EJ	IJ	EJ	EP	IP	EP	IJ	IP	EJ	EP	IJ	EJ	IP	EP
+Intuitive Intelligence	IJ	IJ	IP	EP	EJ	EP	IP	EJ	IP	IJ	EP	EJ	IJ	EJ	IP	EP
+Existential Intelligence	IJ	IJ	IP	EP	EP	IP	EJ	EJ	IP	IJ	EP	EJ	IJ	EJ	IP	EP
+Holistic Intelligence	IJ	IJ	IP	EP	EJ	EJ	IJ	IP	EJ	IJ	IP	EJ	IP	EP	EP	EP
+Memory Intelligence	IJ	IJ	EJ	IJ	IJ	IP	EJ	EP	EJ	EJ	IP	EP	IP	EP	EP	IP
+Physical Intelligence	IP	EP	IP	EP	IJ	EJ	IJ	EJ	EP	EP	EJ	IP	IP	IJ	EJ	IJ
+Spatial Intelligence	IJ	IP	IP	EP	EJ	EP	IJ	EP	IP	IJ	EP	EJ	IJ	EJ	IP	EJ
+Mathematical Intelligence	IP	IJ	EJ	EP	IJ	IJ	EJ	IP	IJ	EJ	IP	EP	IP	EJ	EP	EP
+Creative Intelligence	EP	IP	EP	IP	IJ	IJ	EJ	IP	EP	IJ	EJ	EP	IP	EJ	IJ	EJ
+Social Intelligence	EJ	EJ	EP	IJ	IJ	IP	EP	IP	EJ	EP	EP	IP	IJ	IP	IJ	EJ
+Technological Intelligence	IP	IJ	EP	EJ	IP	EP	IJ	EJ	IJ	EP	IP	EJ	IP	IJ	EP	EJ
+Naturalistic Intelligence	IP	EP	IP	EP	IJ	EJ	IJ	EJ	IJ	IP	EJ	EP	IP	IJ	EP	EJ
+Reflexive Intelligence	IP	EP	IP	EP	IJ	EJ	EP	EJ	IP	EP	IP	IJ	IJ	EJ	IJ	EJ
+																
+Intelligence	1st	2nd	3rd	4th	5th	6th	7th	8th	9th	10th	11th	12th	13th	14th	15th	16th
+Verbal Intelligence	FJ	FJ	FJ	FJ	FP	FP	TP	TJ	FP	TJ	TJ	FP	TP	TJ	TP	TP
+Auditory Intelligence	FP	FP	FP	FP	FJ	FJ	TP	TP	TJ	TJ	TP	TJ	FJ	TJ	FJ	TP
+Linguistic Intelligence	FP	FJ	FJ	FJ	FP	FP	TP	TJ	TP	TJ	FJ	TJ	TJ	TP	FP	TP
+Analytical Intelligence	TP	TJ	TP	TJ	FJ	TP	TJ	TJ	FP	FP	FJ	FJ	FP	FP	FJ	TP
+Cognitive Intelligence	TJ	TP	TP	TJ	FJ	FP	TJ	TJ	FP	FJ	FJ	FP	TP	FP	FJ	TP
+Practical Intelligence	TJ	TJ	TJ	TJ	TP	TP	FJ	FJ	TP	FP	TP	FP	FJ	FJ	FP	FP
+Emotional Intelligence	FJ	FP	FJ	FJ	FJ	FP	FP	FP	TJ	TP	TJ	TP	TJ	TJ	TP	TP
+Intuitive Intelligence	FJ	TJ	FP	FP	FJ	TP	TP	TJ	FP	FJ	FP	FJ	TJ	TJ	TP	TP
+Existential Intelligence	FJ	TJ	FP	FP	TP	TP	FJ	TJ	FP	FJ	FP	FJ	TJ	TJ	TP	TP
+Holistic Intelligence	FJ	TJ	TP	TP	TJ	FJ	TJ	TP	TJ	FJ	FP	FJ	FP	FP	FP	TP
+Memory Intelligence	TJ	FJ	TJ	FJ	TJ	TP	TJ	TP	FJ	FJ	FP	FP	FP	FP	TP	TP
+Physical Intelligence	TP	TP	FP	FP	TJ	TJ	FJ	FJ	TP	FP	TJ	TP	FP	FJ	FJ	TJ
+Spatial Intelligence	TJ	TP	TP	TP	TJ	TP	FJ	FP	FP	FJ	FP	FJ	TJ	TJ	FP	FJ
+Mathematical Intelligence	TP	TJ	TJ	TP	FJ	TJ	TJ	TP	FJ	FJ	FP	FP	FP	FJ	FP	TP
+Creative Intelligence	FP	FP	TP	TP	FJ	TJ	FJ	FP	FP	FJ	FJ	TP	TP	TJ	TJ	TJ
+Social Intelligence	FJ	FJ	FP	FJ	FJ	FP	FP	FP	TJ	TP	TP	TP	TJ	TP	TJ	TJ
+Technological Intelligence	TP	TJ	TP	TJ	TP	TP	TJ	TJ	FJ	FP	FP	FJ	FP	FJ	FP	FJ
+Naturalistic Intelligence	FP	FP	FP	FP	FJ	FJ	FJ	FJ	TJ	TP	TJ	TP	TP	TJ	TP	TJ
+Reflexive Intelligence	TP	TP	FP	FP	TJ	TJ	TP	TJ	TP	FP	FP	FJ	TJ	FJ	FJ	FJ
+																
+Intelligence	1st	2nd	3rd	4th	5th	6th	7th	8th	9th	10th	11th	12th	13th	14th	15th	16th
+Verbal Intelligence	NJ	SJ	NJ	SJ	NP	SP	NP	NJ	NP	SJ	NJ	SP	NP	SJ	SP	SP
+Auditory Intelligence	SP	SP	NP	NP	NJ	NJ	SP	SP	NJ	NJ	NP	SJ	SJ	SJ	SJ	NP
+Linguistic Intelligence	NP	NJ	NJ	SJ	NP	SP	NP	NJ	NP	NJ	SJ	SJ	SJ	SP	SP	SP
+Analytical Intelligence	NP	NJ	NP	NJ	NJ	SP	SJ	SJ	NP	NP	SJ	SJ	SP	SP	NJ	SP
+Cognitive Intelligence	NJ	NP	NP	NJ	NJ	NP	SJ	SJ	NP	SJ	SJ	SP	SP	SP	NJ	SP
+Practical Intelligence	SJ	SJ	NJ	NJ	SP	SP	SJ	SJ	NP	NP	NP	SP	NJ	NJ	NP	SP
+Emotional Intelligence	NJ	NP	NJ	SJ	SJ	NP	SP	SP	NJ	NP	NJ	NP	SJ	SJ	SP	SP
+Intuitive Intelligence	NJ	NJ	NP	NP	NJ	NP	NP	NJ	SP	SJ	SP	SJ	SJ	SJ	SP	SP
+Existential Intelligence	NJ	NJ	NP	NP	NP	NP	NJ	NJ	SP	SJ	SP	SJ	SJ	SJ	SP	SP
+Holistic Intelligence	NJ	NJ	NP	NP	NJ	NJ	SJ	SP	SJ	SJ	SP	SJ	NP	NP	SP	SP
+Memory Intelligence	SJ	SJ	SJ	NJ	NJ	NP	NJ	NP	SJ	NJ	SP	SP	NP	NP	SP	SP
+Physical Intelligence	SP	SP	SP	SP	SJ	SJ	SJ	SJ	NP	NP	NJ	NP	NP	NJ	NJ	NJ
+Spatial Intelligence	NJ	NP	SP	SP	NJ	NP	NJ	NP	SP	SJ	SP	SJ	SJ	SJ	NP	NJ
+Mathematical Intelligence	NP	NJ	NJ	NP	NJ	SJ	SJ	SP	SJ	SJ	SP	NP	NP	NJ	SP	SP
+Creative Intelligence	NP	NP	NP	NP	NJ	NJ	NJ	SP	SP	SJ	SJ	SP	SP	SJ	SJ	NJ
+Social Intelligence	NJ	SJ	NP	NJ	SJ	SP	SP	NP	NJ	NP	SP	SP	NJ	NP	SJ	SJ
+Technological Intelligence	NP	NJ	NP	NJ	SP	SP	SJ	SJ	NJ	NP	NP	NJ	SP	SJ	SP	SJ
+Naturalistic Intelligence	SP	SP	NP	NP	NJ	NJ	SJ	SJ	NJ	NP	NJ	NP	SP	SJ	SP	SJ
+Reflexive Intelligence	SP	SP	SP	SP	SJ	SJ	NP	NJ	NP	NP	NP	NJ	NJ	NJ	SJ	SJ
+																
+Intelligence	1st	2nd	3rd	4th	5th	6th	7th	8th	9th	10th	11th	12th	13th	14th	15th	16th
+Verbal Intelligence	J	J	J	J	P	P	TP	TJ	P	TJ	TJ	P	TP	TJ	TP	TP
+Auditory Intelligence	P	P	P	P	J	J	TP	TP	TJ	TJ	TP	TJ	J	TJ	J	TP
+Linguistic Intelligence	P	J	J	J	P	P	TP	TJ	TP	TJ	J	TJ	TJ	TP	P	TP
+Analytical Intelligence	TP	TJ	TP	TJ	J	TP	TJ	TJ	P	P	J	J	P	P	J	TP
+Cognitive Intelligence	TJ	TP	TP	TJ	J	P	TJ	TJ	P	J	J	P	TP	P	J	TP
+Practical Intelligence	TJ	TJ	TJ	TJ	TP	TP	J	J	TP	P	TP	P	J	J	P	P
+Emotional Intelligence	J	P	J	J	J	P	P	P	TJ	TP	TJ	TP	TJ	TJ	TP	TP
+Intuitive Intelligence	J	TJ	P	P	J	TP	TP	TJ	P	J	P	J	TJ	TJ	TP	TP
+Existential Intelligence	J	TJ	P	P	TP	TP	J	TJ	P	J	P	J	TJ	TJ	TP	TP
+Holistic Intelligence	J	TJ	TP	TP	TJ	J	TJ	TP	TJ	J	P	J	P	P	P	TP
+Memory Intelligence	TJ	J	TJ	J	TJ	TP	TJ	TP	J	J	P	P	P	P	TP	TP
+Physical Intelligence	TP	TP	P	P	TJ	TJ	J	J	TP	P	TJ	TP	P	J	J	TJ
+Spatial Intelligence	TJ	TP	TP	TP	TJ	TP	J	P	P	J	P	J	TJ	TJ	P	J
+Mathematical Intelligence	TP	TJ	TJ	TP	J	TJ	TJ	TP	J	J	P	P	P	J	P	TP
+Creative Intelligence	P	P	TP	TP	J	TJ	J	P	P	J	J	TP	TP	TJ	TJ	TJ
+Social Intelligence	J	J	P	J	J	P	P	P	TJ	TP	TP	TP	TJ	TP	TJ	TJ
+Technological Intelligence	TP	TJ	TP	TJ	TP	TP	TJ	TJ	J	P	P	J	P	J	P	J
+Naturalistic Intelligence	P	P	P	P	J	J	J	J	TJ	TP	TJ	TP	TP	TJ	TP	TJ
+Reflexive Intelligence	TP	TP	P	P	TJ	TJ	TP	TJ	TP	P	P	J	TJ	J	J	J
+																
+Intelligence	1st	2nd	3rd	4th	5th	6th	7th	8th	9th	10th	11th	12th	13th	14th	15th	16th
+Verbal Intelligence	J	J	J	J	P	P	P	J	P	J	J	P	P	J	P	P
+Auditory Intelligence	P	P	P	P	J	J	P	P	J	J	P	J	J	J	J	P
+Linguistic Intelligence	P	J	J	J	P	P	P	J	P	J	J	J	J	P	P	P
+Analytical Intelligence	P	J	P	J	J	P	J	J	P	P	J	J	P	P	J	P
+Cognitive Intelligence	J	P	P	J	J	P	J	J	P	J	J	P	P	P	J	P
+Practical Intelligence	J	J	J	J	P	P	J	J	P	P	P	P	J	J	P	P
+Emotional Intelligence	J	P	J	J	J	P	P	P	J	P	J	P	J	J	P	P
+Intuitive Intelligence	J	J	P	P	J	P	P	J	P	J	P	J	J	J	P	P
+Existential Intelligence	J	J	P	P	P	P	J	J	P	J	P	J	J	J	P	P
+Holistic Intelligence	J	J	P	P	J	J	J	P	J	J	P	J	P	P	P	P
+Memory Intelligence	J	J	J	J	J	P	J	P	J	J	P	P	P	P	P	P
+Physical Intelligence	P	P	P	P	J	J	J	J	P	P	J	P	P	J	J	J
+Spatial Intelligence	J	P	P	P	J	P	J	P	P	J	P	J	J	J	P	J
+Mathematical Intelligence	P	J	J	P	J	J	J	P	J	J	P	P	P	J	P	P
+Creative Intelligence	P	P	P	P	J	J	J	P	P	J	J	P	P	J	J	J
+Social Intelligence	J	J	P	J	J	P	P	P	J	P	P	P	J	P	J	J
+Technological Intelligence	P	J	P	J	P	P	J	J	J	P	P	J	P	J	P	J
+Naturalistic Intelligence	P	P	P	P	J	J	J	J	J	P	J	P	P	J	P	J
+Reflexive Intelligence	P	P	P	P	J	J	P	J	P	P	P	J	J	J	J	J
