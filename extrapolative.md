@@ -10,7 +10,11 @@ These functions can occur in any order, are not bound by strict structure, and m
 
 The order I’ve become familiar with, after thousands of hours of gathering and fragmenting data into a mental model, allows me to extrapolate in many different ways from what has already been achieved, which is the goal. One does not inherently know if they are right or wrong during this thought process—it’s not a conscious effort, much like pattern recognition, which relies more on automatic sensing than conscious awareness of what you're looking for.
 
-This is why IQ tests don't measure intelligence, especially since a true puzzle has no fixed form, strategy, guaranteed solution, or established rules; and that a true test of intelligence belongs many different modes of thought as there are currently 19 established areas of intelligence with more formulating as they become apparent.
+This is why IQ tests don’t accurately measure intelligence, especially since a true puzzle lacks a fixed form, strategy, guaranteed solution, or established rules. A genuine test of intelligence involves many modes of thought, with 19 recognized areas of intelligence and more emerging as they are discovered.
+
+A true test wouldn't be fair, which unsettles some because they may interpret "unfair" as meaning the testing environments should average out equally. However, what participants are tested on cannot be uniformly defined or made equal to another’s test, so some tests may seem easier. Over time, repeated testing would average out to reflect cognitive abilities.
+
+While I can model the main thought processes of an INTJ and most of an ENTJ, I need help modeling the other types, as I don’t think the way they do, and it would be inappropriate to assume their thought processes.
 
 1. **Data Collection**: Gathering raw information from various sources. This forms the foundation, providing the necessary input for analysis.
    
