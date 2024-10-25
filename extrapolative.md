@@ -12,9 +12,13 @@ The order I’ve become familiar with, after thousands of hours of gathering and
 
 This is why IQ tests don’t accurately measure intelligence, especially since a true puzzle lacks a fixed form, strategy, guaranteed solution, or established rules. A genuine test of intelligence involves many modes of thought, with 19 recognized areas of intelligence and more emerging as they are discovered.
 
-A true test wouldn't be fair, which unsettles some because they may interpret "unfair" as meaning the testing environments should average out equally. However, what participants are tested on cannot be uniformly defined or made equal to another’s test, so some tests may seem easier. Over time, repeated testing would average out to reflect cognitive abilities.
+A true test wouldn't be fair, which unsettles some because they may interpret "fair" as meaning everything must be exactly the same—an idea they were taught to believe (unintentionally had consequences), but which is inherently not fair.
 
-While I can model the main thought processes of an INTJ and most of an ENTJ, I need help modeling the other types, as I don’t think the way they do, and it would be inappropriate to assume their thought processes.
+However, what participants are tested on cannot be uniformly defined or made equal to another’s test, nor should they be punished. Some tests may seem easier to some, and certain aspects of one person’s intelligence may not measure well against another’s.
+
+Thus, intelligence should be evaluated on a complex scale multidimensional curve that only assesses the areas in which individuals excel. Over time, repeated testing would average out to reflect cognitive abilities without comparing students against each other, as that comparison is the underlying flaw of the education system established by the Holy Roman Empire, which contributed to the decline in intellectual capabilities leading to the Dark Ages (a term disliked by Roman Catholic apologists) and has been self-perpetuating through Conditioned Inheritence since.
+
+>While I can model the main thought processes of an INTJ and most of an ENTJ, help will be required in modeling the other types, as it would be inappropriate to assume their cognitive processes.
 
 1. **Data Collection**: Gathering raw information from various sources. This forms the foundation, providing the necessary input for analysis.
    
