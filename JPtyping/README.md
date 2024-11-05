@@ -110,20 +110,6 @@ These orientations interact by influencing each other’s methods based on goals
 
 ---
 
-## Historical and Contemporary Examples
-
-- **Martin Luther King Jr.** (Revolutionary, J): Embodied vision and societal transformation within the Civil Rights Movement.
-- **Benjamin Franklin** (Evolutionary, P): Integrated gradual societal improvements, balancing continuity with innovation.
-
-Modern examples reflect similar orientations:
-
-- **Jeff Bezos** (Revolutionary, J): Revolutionized e-commerce, embodying transformative change.
-- **Bill Gates** (Evolutionary, P): Focused on incremental technological and philanthropic advances.
-
-These figures exemplify how orientations impact fields and societal norms, demonstrating the framework’s real-world relevance.
-
----
-
 ## Reconceptualizing MBTI: Cognitive Processing and Social Engagement
 
 This framework expands beyond traditional MBTI classifications, focusing on **internal** and **external** processing orientations instead of social behavior:
