@@ -1,3 +1,95 @@
+# What MBTI and TPF does and does not do
+
+## MBTI does not determine if you are:
+- tidy or organized
+- open- or closed-minded
+- mature or immature
+- empathetic or compassionate
+- respectful or kind
+- assertive or polite
+- responsible or disciplined
+- adaptable or conscientious
+- driven or creative
+- introverted or extroverted (beyond the basic E/I dimension)
+- ethical or strategic
+- wise or insightful
+- socially skilled or intelligent
+
+## MBTI, however, does indicate aspects of how you:
+
+- process information
+- make decisions
+- approach structure
+- direct your energy
+- prioritize logic
+- handle conflict and disagreement
+- view authority and hierarchy
+- manage personal space and privacy
+- approach long-term goals
+- react to stress
+- balance efficiency and experience
+- seek harmony or clarity
+
+## TPF restructures the framework to be backwards compatible
+
+The TPF prioritized the availability of data, and categorizes the 16 personality types into distinct profiles, employing data science and neuroscience to identify brain regions most active in response to interests, dislikes, and behaviors. This categorization relies on profile data from Reddit users who predominantly align with one personality type, as identified through specific metrics and three models analyzing text and interests. Both immature and mature mindsets were evaluated, leading to the discovery of three mature mindsets. Findings indicated that each group demonstrated open-mindedness within their social circles but showed closed-mindedness toward others. Overall, five mindsets emerged: the Abstractualist, Peripheralist, Rotationalist, Lateralist, and Centralist (-V, -P, -R, -L, -C).
+
+In addition, the V, R, and L mindset types include indicators from 0 to 2, where each value points toward a different influence:
+
+- **0** = Toward P
+- **1** = Toward C
+- **2** = General consideration to multiple orientations (neither strongly aligned with P nor C)
+
+Each mindset has a primary letter and an optional secondary indicator. The primary letter represents the dominant mindset, while the secondary number (if present) indicates a slight leaning toward another influence. A single letter alone represents a pure form of that mindset without secondary influences.
+
+The complete list includes:
+
+1. **P0** (P with influence toward P)
+2. **P1** (P with influence toward C)
+3. **V0** (V with influence toward P)
+4. **V1** (V with influence toward C)
+5. **V2** (V with general consideration to multiple orientations)
+6. **R0** (R with influence toward P)
+7. **R1** (R with influence toward C)
+8. **R2** (R with general consideration to multiple orientations)
+9. **L0** (L with influence toward P)
+10. **L1** (L with influence toward C)
+11. **L2** (L with general consideration to multiple orientations)
+12. **C** (Centralist Mindset)
+
+This structure results in 12 distinct combinations, with each primary mindset optionally influenced by P, C, or a broader range of considerations. 
+
+These thinking patterns can influence tendencies to develop certain behaviors based on how you naturally process and respond to the world, linked to specific brain regions. This framework allows for understanding a spectrum of interests, traits, and work styles—not as a justification for negative behaviors, but as a guide to improve them.
+
+## Precautionary
+
+**⚠ WARNING: Preliminary Research \- Not Final or Verified**
+
+This document contains hypotheses or preprint data that have not undergone extensive testing. The information presented should be considered **exploratory** and **is subject to change** as further research is conducted.
+
+**Important Notes:**
+
+* Findings, data, and conclusions presented here are preliminary and may be incomplete or unverified.
+* Further review, validation, and replication are required before the results can be considered reliable.
+* This material **should not** be used to guide critical decisions, actions, or applications without further confirmation from additional studies.
+
+**Disclaimer:** This research is in an early stage of development and may be significantly revised. It does not represent an established consensus or final conclusion in the respective field.   
+
+## Change Notes
+Since there have been significant changes in the last month not reflective here, they will not be listed, but some major ones to consider
+
+1. ~~Perceiving is now Perjective Thinking~~
+2. Judging is now Conjective Thinking
+3. Thinking is now Cognitive Thinking
+4. Feeling is now Affective Thinking
+5. Introversion is now Internal Thinking
+6. Extroversion is now External Thinking
+7. Perjective is now Perspective Thinking
+8. Perspective (P) is Evolutionary
+9. Conjective (J) is Revolutionary
+
+## Base Understanding
+
 | **Category**           | **Specific Function/Activity** | **Brain Regions Involved**                                                                 | **Key References**                                                                                      |
 |------------------------|--------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | **Memory**             | Episodic Memory                | Hippocampus, Entorhinal Cortex, CA1 Region of the Hippocampus                             | Eichenbaum, 2017; Squire, 1992                                                                              |
