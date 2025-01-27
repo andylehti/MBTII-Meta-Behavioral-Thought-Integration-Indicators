@@ -294,9 +294,9 @@ Pairing these insights with aggregate spatial margins, it is evident that INTJs 
 | INFJ          | 1–3                                 | Insightful Visionary         | 1.2                                  | -0.8 to +0.2                   | 11                     |
 | ENTJ          | 2–4                                 | Bold Strategist              | 1.6                                  | -0.4 to -2.4                   | 8                      |
 | ENFJ          | 2–5                                 | Charismatic Leader           | 2.7                                  | -0.3 to +0.7                   | 9                      |
-| INTP          | 2–5                                 | Thoughtful Innovator         | 4.3                                  | -0.7 to +2.3                   | 13                     |
+| ENTP          | 3–6                                 | Resourceful Inventor         | 4.3                                  | -1.3 to +1.7                   | 4                      |
 | INFP          | 4–6                                 | Idealistic Mediator          | 2.5                                  | -1.5 to -3.5                   | 12                     |
-| ENTP          | 3–6                                 | Resourceful Inventor         | 8.6                                  | +2.6 to +5.6                   | 4                      |
+| INTP          | 2–5                                 | Thoughtful Innovator         | 8.6                                  | -6.6 to -3.6                   | 13                     |
 | ENFP          | 6–8                                 | Inspirational Enthusiast     | 3.3                                  | -2.7 to -4.7                   | 3                      |
 
 ---
@@ -351,144 +351,145 @@ Ultimately, the synthesis of opposing cognitive functions and the cultivation of
 3. Frequently cries because they can’t lower their energy. 
 4. Obsessed with "cool character" status. 
 5. Thinks intimidating others gives them control. 
-6. Feels quirky or unique when simply being mean. 
-7. People think you’re on drugs when you’re not. 
-8. Talks to themselves aloud to process thoughts. 
-9. Believes in living and letting others live. 
-10. Loves doing pranks and making decisions impulsively. 
-11. Randomly sings parts of songs. 
-12. Often skips instead of walking. 
-13. Cries when yelled at but motivates others. 
-14. Radiates dumb energy despite being intelligent. 
-15. Frequently emotional and cries at movies. 
-16. Always needs to do something with their hands. 
-17. Takes on too many projects when stressed. 
-18. Brainstorms creative ideas to manage stress. 
-19. Needs probing questions to open up struggles.
-20. Cynical or sarcastic behavior may replace a cheerful demeanor under stress. 
-21. Stress can lead to obsessive focus on known details as a coping mechanism. 
-22. Feeling unmotivated is common during stress or burnout. 
-23. Social withdrawal often follows feelings of overwhelm. 
-24. Stress can cause irritability and crankiness. 
-25. Anxiety may lead to dwelling on past embarrassing moments. 
-26. Overthinking and control issues arise from stress or uncertainty. 
-27. Sensory sensitivities can provoke complaints about noise or discomfort. 
-28. Anxiety or regret may drive compulsive reviewing of old messages. 
-29. Stress may manifest as headaches and irrational health fears. 
-30. Excessive organizing and controlling behaviors occur as a stress response. 
-31. Hyper-focusing on minor details may distract from larger goals. 
-32. Avoidance of primary stress sources can exacerbate problems. 
-33. Negative self-perception may cause feelings of failure. 
-34. Intrusive flashbacks disrupt thoughts during stress. 
-35. Catastrophic thinking can heighten anxiety and hopelessness. 
-36. Storytelling or singing may emerge as creative coping mechanisms. 
-37. Starting new tasks while procrastinating on current ones is a stress response. 
-38. Social missteps can lead to unintentional irritation of others. 
-39. Stress may trigger extreme emotional reactions. 
-40. Inappropriate humor can serve as a defense mechanism. 
-41. Focus issues under stress may resemble ADHD-like behavior. 
-42. Outrageous actions may be used for social attention. 
-43. Racing thoughts can lead to confusion and decision-making challenges. 
-44. Emotional overwhelm may result in crying or visible distress. 
-45. Struggling with long-term focus and distraction is a common stress trait. 
-46. A desire for social validation can lead to prioritizing approval from others. 
-47. Idealized "cool character" status may be sought for social recognition. 
-48. Energy depletion coexists with difficulty relaxing. 
-49. Widespread negativity or disdain may arise as a defense mechanism. 
-50. Complacency may lead to complaints without taking action. 
-51. Withdrawal behaviors can cause mistyping as other personality types. 
-52. Identity exploration may result in attempts to differentiate from norms. 
-53. Judgmental attitudes may reflect personal or societal standards. 
-54. Feelings of disconnection may persist despite close friendships. 
-55. Perfectionism and minor irritations may dominate focus. 
-56. Intimidation may be used as a means of asserting control. 
-57. Negative behavior may be perceived as quirkiness or uniqueness. 
-58. Hidden loneliness can lead to denial or overcompensation. 
-59. Judgment of liked individuals may project internal struggles. 
-60. Unhealthy routines may persist out of comfort or fear of change. 
-61. Minor frustrations can trigger disproportionate emotional reactions. 
-62. Self-centered behavior may emerge under stress. 
-63. Erratic behavior may be misinterpreted as substance use. 
-64. A desire for solitude can lead to disconnecting from social interactions. 
-65. Talking aloud can aid thought processing and cognitive clarity. 
-66. Resistance to authority stems from valuing autonomy. 
-67. Reluctance to impose control reflects preference for collaboration. 
-68. A live-and-let-live philosophy emphasizes personal freedom. 
-69. Being sought for advice highlights insightfulness and understanding. 
-70. Dislike of rude or critical behavior stems from valuing harmony. 
-71. Snap decisions are avoided in favor of deliberation. 
-72. Experiences are prioritized to inform opinions. 
-73. Enjoying attention reflects social engagement and energy. 
-74. External validation fulfills a need for affirmation. 
-75. Overanalyzing social interactions reflects a focus on dynamics. 
-76. Compliments strengthen emotional bonds and self-worth. 
-77. Positive feedback may be overanalyzed, reducing its impact. 
-78. Creativity and enthusiasm manifest as key personality traits. 
-79. Bursts of emotions highlight expressiveness and flexibility. 
-80. Passion and authenticity characterize interpersonal interactions. 
-81. Stress can cause irresponsibility and detachment. 
-82. Living in the past or future impacts present focus. 
-83. Boundary and accountability struggles may arise under stress. 
-84. Commitment falters when responsibilities feel overwhelming. 
-85. Responsibilities are questioned under heavy stress. 
-86. Emotions are masked to maintain a composed exterior. 
-87. Stress-induced withdrawal fosters introspection and reliance on past experiences. 
-88. Difficulty identifying emotions complicates internal struggles. 
-89. Misidentification of personality type occurs during stress-induced behaviors. 
-90. Shadow behaviors manifest as withdrawal and pessimism. 
-91. Intuition-based judgment errors may lead to flawed decisions. 
-92. Anxiety and worry amplify stress responses. 
-93. Boredom and impulsivity fuel a need for stimulation. 
-94. Attachment to bad relationships persists due to fear or dependency. 
-95. Enthusiasm can lead to unrealistic expectations. 
-96. Dislike for routine tasks like bill-paying reflects a preference for engagement. 
-97. Conflict avoidance prioritizes harmony over confrontation. 
-98. Overcommitment leads to neglect of personal needs. 
-99. Idealistic relationship expectations hinder sustainability. 
-100. New ideas distract from completing projects. 
-101. Social approval is sought to maintain self-esteem. 
-102. Daydreaming creates a disconnect from reality. 
-103. Physical activity helps reduce stress and maintain focus. 
-104. Singing expresses emotions and lightens the mood. 
-105. Physical restlessness manifests as hurried or impulsive actions. 
-106. Music provides emotional therapy and relaxation. 
-107. Sensitivity in personal reactions coexists with motivating others. 
-108. Playfulness and impulsivity enhance social engagement. 
-109. Interest in niche topics reflects curiosity and uniqueness. 
-110. Emotional exploration and adventurousness drive experiences. 
-111. Long-term focus challenges accompany easy distraction. 
-112. Humor and empathy balance social interactions. 
-113. Emotional instability arises in frequent mood swings. 
-114. Sensitivity to others’ opinions impacts self-perception. 
-115. Pressure to appear cheerful masks inner struggles. 
-116. Overextending for others drains personal energy. 
-117. Deadlines and organization pose challenges under stress. 
-118. Creativity is not always matched by execution. 
-119. External perceptions may overshadow personal authenticity. 
-120. Stress leads to feeling overwhelmed easily.
-121. Intelligent individuals may display seemingly "dumb" energy.
-122. Humor masks internalized pain and vulnerability.
-123. Strong emotional reactions to movies reflect empathy.
-124. Anger and attachment issues surface during stress. 
-125. ADHD-like behaviors manifest in restlessness and inattention. 
-126. Insensitivity may arise from lack of awareness or social cues. 
-127. Social outgoingness coexists with focus difficulties. 
-128. Emotions are suppressed to manage stress. 
-129. Introspection dominates during solitude. 
-130. Leadership evolves through experience and practice. 
-131. Logical anger results from suppressed emotions. 
-132. Novel experiences help combat stress and energize. 
-133. Thrill-seeking maintains vitality and engagement. 
-134. Independence and self-expression are highly valued. 
-135. Fear of identity loss or constraints generates anxiety. 
-136. Emotional and sensory needs are often neglected during stress. 
-137. Insecurity drives validation-seeking behavior. 
-138. Self-care is neglected when overcommitted. 
-139. Philosophical reflection explores life’s purpose. 
-140. Leadership fosters others’ growth and well-being. 
-141. Emotional pain is processed privately. 
-142. Authentic connections emphasize love and respect. 
-143. Overcommitting distracts from addressing stress. 
-144. Emotional expression conflicts with self-protection. 
-145. Creativity aids stress management through problem-solving. 
-146. Probing questions reveal underlying struggles. 
+6. Feels quirky or unique and viewed as joking when simply being mean.
+7. Feels mean or resentful and viewed as serious when simply joking. 
+8. People think you’re on drugs when you’re not.
+9. Talks to themselves aloud to process thoughts.
+10. Believes in living and letting others live.
+11. Loves doing pranks and making decisions impulsively.
+12. Randomly sings parts of songs.
+13. Often skips instead of walking.
+14. Cries when yelled at but motivates others.
+15. Radiates dumb energy despite being intelligent.
+16. Frequently emotional and cries at movies.
+17. Always needs to do something with their hands.
+18. Takes on too many projects when stressed.
+19. Brainstorms creative ideas to manage stress.
+20. Needs probing questions to open up struggles.
+21. Cynical or sarcastic behavior may replace a cheerful demeanor under stress. 
+22. Stress can lead to obsessive focus on known details as a coping mechanism. 
+23. Feeling unmotivated is common during stress or burnout. 
+24. Social withdrawal often follows feelings of overwhelm. 
+25. Stress can cause irritability and crankiness.
+26. Anxiety may lead to dwelling on past embarrassing moments. 
+27. Overthinking and control issues arise from stress or uncertainty. 
+28. Sensory sensitivities can provoke complaints about noise or discomfort. 
+29. Anxiety or regret may drive compulsive reviewing of old messages. 
+30. Stress may manifest as headaches and irrational health fears. 
+31. Excessive organizing and controlling behaviors occur as a stress response. 
+32. Hyper-focusing on minor details may distract from larger goals. 
+33. Avoidance of primary stress sources can exacerbate problems. 
+34. Negative self-perception may cause feelings of failure. 
+35. Intrusive flashbacks disrupt thoughts during stress. 
+36. Catastrophic thinking can heighten anxiety and hopelessness. 
+37. Storytelling or singing may emerge as creative coping mechanisms. 
+38. Starting new tasks while procrastinating on current ones is a stress response. 
+39. Social missteps can lead to unintentional irritation of others. 
+40. Stress may trigger extreme emotional reactions. 
+41. Inappropriate humor can serve as a defense mechanism. 
+42. Focus issues under stress may resemble ADHD-like behavior. 
+43. Outrageous actions may be used for social attention. 
+44. Racing thoughts can lead to confusion and decision-making challenges. 
+45. Emotional overwhelm may result in crying or visible distress. 
+46. Struggling with long-term focus and distraction is a common stress trait. 
+47. A desire for social validation can lead to prioritizing approval from others. 
+48. Idealized "cool character" status may be sought for social recognition. 
+49. Energy depletion coexists with difficulty relaxing. 
+50. Widespread negativity or disdain may arise as a defense mechanism. 
+51. Complacency may lead to complaints without taking action. 
+52. Withdrawal behaviors can cause mistyping as other personality types. 
+53. Identity exploration may result in attempts to differentiate from norms. 
+54. Judgmental attitudes may reflect personal or societal standards. 
+55. Feelings of disconnection may persist despite close friendships. 
+56. Perfectionism and minor irritations may dominate focus. 
+57. Intimidation may be used as a means of asserting control. 
+58. Negative behavior may be perceived as quirkiness or uniqueness. 
+59. Hidden loneliness can lead to denial or overcompensation. 
+60. Judgment of liked individuals may project internal struggles. 
+61. Unhealthy routines may persist out of comfort or fear of change. 
+62. Minor frustrations can trigger disproportionate emotional reactions. 
+63. Self-centered behavior may emerge under stress. 
+64. Erratic behavior may be misinterpreted as substance use. 
+65. A desire for solitude can lead to disconnecting from social interactions. 
+66. Talking aloud can aid thought processing and cognitive clarity. 
+67. Resistance to authority stems from valuing autonomy. 
+68. Reluctance to impose control reflects preference for collaboration. 
+69. A live-and-let-live philosophy emphasizes personal freedom. 
+70. Being sought for advice highlights insightfulness and understanding. 
+71. Dislike of rude or critical behavior stems from valuing harmony. 
+72. Snap decisions are avoided in favor of deliberation. 
+73. Experiences are prioritized to inform opinions. 
+74. Enjoying attention reflects social engagement and energy. 
+75. External validation fulfills a need for affirmation. 
+76. Overanalyzing social interactions reflects a focus on dynamics. 
+77. Compliments strengthen emotional bonds and self-worth. 
+78. Positive feedback may be overanalyzed, reducing its impact. 
+79. Creativity and enthusiasm manifest as key personality traits. 
+80. Bursts of emotions highlight expressiveness and flexibility. 
+81. Passion and authenticity characterize interpersonal interactions. 
+82. Stress can cause irresponsibility and detachment. 
+83. Living in the past or future impacts present focus. 
+84. Boundary and accountability struggles may arise under stress. 
+85. Commitment falters when responsibilities feel overwhelming. 
+86. Responsibilities are questioned under heavy stress. 
+87. Emotions are masked to maintain a composed exterior. 
+88. Stress-induced withdrawal fosters introspection and reliance on past experiences. 
+89. Difficulty identifying emotions complicates internal struggles. 
+90. Misidentification of personality type occurs during stress-induced behaviors. 
+91. Shadow behaviors manifest as withdrawal and pessimism. 
+92. Intuition-based judgment errors may lead to flawed decisions. 
+93. Anxiety and worry amplify stress responses. 
+94. Boredom and impulsivity fuel a need for stimulation. 
+95. Attachment to bad relationships persists due to fear or dependency. 
+96. Enthusiasm can lead to unrealistic expectations. 
+97. Dislike for routine tasks like bill-paying reflects a preference for engagement. 
+98. Conflict avoidance prioritizes harmony over confrontation. 
+99. Overcommitment leads to neglect of personal needs. 
+100. Idealistic relationship expectations hinder sustainability. 
+101. New ideas distract from completing projects. 
+102. Social approval is sought to maintain self-esteem. 
+103. Daydreaming creates a disconnect from reality. 
+104. Physical activity helps reduce stress and maintain focus. 
+105. Singing expresses emotions and lightens the mood. 
+106. Physical restlessness manifests as hurried or impulsive actions. 
+107. Music provides emotional therapy and relaxation. 
+108. Sensitivity in personal reactions coexists with motivating others. 
+109. Playfulness and impulsivity enhance social engagement. 
+110. Interest in niche topics reflects curiosity and uniqueness. 
+111. Emotional exploration and adventurousness drive experiences. 
+112. Long-term focus challenges accompany easy distraction. 
+113. Humor and empathy balance social interactions. 
+114. Emotional instability arises in frequent mood swings. 
+115. Sensitivity to others’ opinions impacts self-perception. 
+116. Pressure to appear cheerful masks inner struggles. 
+117. Overextending for others drains personal energy. 
+118. Deadlines and organization pose challenges under stress. 
+119. Creativity is not always matched by execution. 
+120. External perceptions may overshadow personal authenticity. 
+121. Stress leads to feeling overwhelmed easily.
+122. Intelligent individuals may display seemingly "dumb" energy.
+123. Humor masks internalized pain and vulnerability.
+124. Strong emotional reactions to movies reflect empathy.
+125. Anger and attachment issues surface during stress. 
+126. ADHD-like behaviors manifest in restlessness and inattention. 
+127. Insensitivity may arise from lack of awareness or social cues. 
+128. Social outgoingness coexists with focus difficulties. 
+129. Emotions are suppressed to manage stress. 
+130. Introspection dominates during solitude. 
+131. Leadership evolves through experience and practice. 
+132. Logical anger results from suppressed emotions. 
+133. Novel experiences help combat stress and energize. 
+134. Thrill-seeking maintains vitality and engagement. 
+135. Independence and self-expression are highly valued. 
+136. Fear of identity loss or constraints generates anxiety. 
+137. Emotional and sensory needs are often neglected during stress. 
+138. Insecurity drives validation-seeking behavior. 
+139. Self-care is neglected when overcommitted. 
+140. Philosophical reflection explores life’s purpose. 
+141. Leadership fosters others’ growth and well-being. 
+142. Emotional pain is processed privately. 
+143. Authentic connections emphasize love and respect. 
+144. Overcommitting distracts from addressing stress. 
+145. Emotional expression conflicts with self-protection. 
+146. Creativity aids stress management through problem-solving. 
+147. Probing questions reveal underlying struggles. 
